@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+yfinance>=0.2.40
+anthropic>=0.40
+python-dotenv>=1.0
+# Hanya untuk mode live (Windows + terminal MT5 terpasang):
+# MetaTrader5>=5.0.45
